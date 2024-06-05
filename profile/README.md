@@ -19,7 +19,7 @@ https://www.notion.so/Notion-94bedced9c0d4f5b9be480ceaf102baf
 ## UI/UX
 | 메인 페이지 | 물품 조회 |
 |:------------:|:------------:|
-| <img src="https://github.com/SSG-Donkey/k8s-manifest-repo/assets/50051891/14d63cba-8648-44d2-9be3-7a0a6f60ee2c"  /> | <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true" > |
+| <img src="https://github.com/SSG-Donkey/k8s-manifest-repo/assets/50051891/bbdd0bab-51fb-4f36-8401-6f2bbfab5a37?raw=true"  /> | <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true" > | 
 | **회원 가입** | **로그인** |
 | <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true"  /> | <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true" > | 
 | **게시글 작성** | **댓글 작성** |
