@@ -20,12 +20,12 @@ https://www.notion.so/Notion-94bedced9c0d4f5b9be480ceaf102baf
 | 메인 페이지 | 물품 조회 |
 |:------------:|:------------:|
 | <img src="https://github.com/SSG-Donkey/k8s-manifest-repo/assets/50051891/bbdd0bab-51fb-4f36-8401-6f2bbfab5a37?raw=true"  /> | <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true" > | 
-| **회원 가입** | **로그인** |
+| **회원 가입** | **소셜 로그인** |
 | <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true"  /> | <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true" > | 
 | **게시글 작성** | **댓글 작성** |
-| <img src=""  /> | <img src=""  /> | 
+| <img src="https://github.com/SSG-Donkey/k8s-manifest-repo/assets/50051891/50f56988-69a6-41a3-a2a5-58fa3e44f5a1?raw=true"  /> | <img src="https://github.com/SSG-Donkey/k8s-manifest-repo/assets/50051891/fe8eced6-c734-411c-afe0-f89dfe255d85?raw=true"  /> | 
 | **나눔 채택** | **포인트 충전** |
-| <img src="" /> | <img src=""  /> | 
+| <img src="https://github.com/SSG-Donkey/k8s-manifest-repo/assets/50051891/d6432bf0-a25e-4078-8214-0c341a088536?raw=trueㅋ" /> | <img src="https://github.com/SSG-Donkey/k8s-manifest-repo/assets/50051891/114bf3c3-9133-4556-aa43-2917a8567411?raw=true"  /> | 
 
 
 # 🛠 Tech Stacks
