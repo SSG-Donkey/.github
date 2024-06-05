@@ -48,3 +48,15 @@ https://www.notion.so/Notion-94bedced9c0d4f5b9be480ceaf102baf
 ![image](https://github.com/SSG-Donkey/.github/assets/50051891/78ebf73e-ee2c-4a16-ab24-a685876cf3a2)
 ![image](https://github.com/SSG-Donkey/.github/assets/50051891/f558e3f3-ad17-443a-89fc-547a26e6de71)
 ![image](https://github.com/SSG-Donkey/.github/assets/50051891/e7d866a3-a378-4cf2-bc2b-cc2a8d505d5a)
+
+## UI/UX
+| 메인 페이지 | 물품 조회 |
+|:------------:|:------------:|
+|<img src="" width="48%" />|<img src="" width="48%" />|
+| **회원 가입** | **로그인** |
+| <img src="" width="48%" /> | <img src="https://github.com/namjyung/codetree-TILs/blob/main/1-ezgif.com-video-to-gif-converter.gif?raw=true"> | 
+| **게시글 작성** | **댓글 작성** |
+| <img src="" width="48%" /> | <img src="" width="48%" /> | 
+| **나눔 채택** | **포인트 충전** |
+| <img src="" width="48%" /> | <img src="" width="48%" /> | 
+
