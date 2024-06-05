@@ -1,6 +1,8 @@
-# 
+# IaC 기반 퍼블릭 클라우드 MSA 운영 환경 구축
 
-![로고최종](https://github.com/SSG-Donkey/.github/assets/125139072/7c0784f5-2d42-46c7-8cf3-dd89fc831cee)
+![로고최종](https://github.com/SSG-Donkey/.github/assets/50051891/b1b7f652-32ba-410c-832d-651a130c68dc)
+
+나눔의 본질을 찾는 '당나귀'
 
 
 ![image](https://github.com/SSG-Donkey/.github/assets/50051891/b13282aa-db38-4fc6-83c2-f03637eb7114)
