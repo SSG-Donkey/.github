@@ -54,7 +54,7 @@ https://www.notion.so/Notion-94bedced9c0d4f5b9be480ceaf102baf
 |:------------:|:------------:|
 |<img src="" />|<img src="" />|
 | **회원 가입** | **로그인** |
-| <img src="https://github.com/namjyung/codetree-TILs/blob/main/1-ezgif.com-video-to-gif-converter.gif?raw=true"  /> | <img src="https://github.com/namjyung/codetree-TILs/blob/main/1-ezgif.com-video-to-gif-converter.gif?raw=true" > | 
+| <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true"  /> | <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true" > | 
 | **게시글 작성** | **댓글 작성** |
 | <img src=""  /> | <img src=""  /> | 
 | **나눔 채택** | **포인트 충전** |
