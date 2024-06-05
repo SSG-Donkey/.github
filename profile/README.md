@@ -14,6 +14,20 @@
 ## Team Notion
 https://www.notion.so/Notion-94bedced9c0d4f5b9be480ceaf102baf
 
+
+
+## UI/UX
+| 메인 페이지 | 물품 조회 |
+|:------------:|:------------:|
+| <img src="https://github.com/SSG-Donkey/k8s-manifest-repo/assets/50051891/14d63cba-8648-44d2-9be3-7a0a6f60ee2c"  /> | <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true" > |
+| **회원 가입** | **로그인** |
+| <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true"  /> | <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true" > | 
+| **게시글 작성** | **댓글 작성** |
+| <img src=""  /> | <img src=""  /> | 
+| **나눔 채택** | **포인트 충전** |
+| <img src="" /> | <img src=""  /> | 
+
+
 # 🛠 Tech Stacks
 ## FrontEnd
 ![image](https://github.com/SSG-Donkey/.github/assets/50051891/b74d5316-1a12-43a1-ae88-f4000f3aa270)
@@ -49,14 +63,4 @@ https://www.notion.so/Notion-94bedced9c0d4f5b9be480ceaf102baf
 ![image](https://github.com/SSG-Donkey/.github/assets/50051891/f558e3f3-ad17-443a-89fc-547a26e6de71)
 ![image](https://github.com/SSG-Donkey/.github/assets/50051891/e7d866a3-a378-4cf2-bc2b-cc2a8d505d5a)
 
-## UI/UX
-| 메인 페이지 | 물품 조회 |
-|:------------:|:------------:|
-|<img src="" />|<img src="" />|
-| **회원 가입** | **로그인** |
-| <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true"  /> | <img src="https://github.com/namjyung/gif/blob/main/login.gif?raw=true" > | 
-| **게시글 작성** | **댓글 작성** |
-| <img src=""  /> | <img src=""  /> | 
-| **나눔 채택** | **포인트 충전** |
-| <img src="" /> | <img src=""  /> | 
 
