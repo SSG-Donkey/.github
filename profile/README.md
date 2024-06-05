@@ -1,8 +1,8 @@
 <div align="center">
-  # IaC 기반 퍼블릭 클라우드 MSA 운영 환경 구축
 
  ![로고최종](https://github.com/SSG-Donkey/.github/assets/50051891/b1b7f652-32ba-410c-832d-651a130c68dc)
 
+  IaC 기반 퍼블릭 클라우드 MSA 운영 환경 구축
   나눔의 본질을 찾는 '당나귀'
 </div>
 
