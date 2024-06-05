@@ -52,11 +52,11 @@ https://www.notion.so/Notion-94bedced9c0d4f5b9be480ceaf102baf
 ## UI/UX
 | 메인 페이지 | 물품 조회 |
 |:------------:|:------------:|
-|<img src="" width="48%" />|<img src="" width="48%" />|
+|<img src="" />|<img src="" />|
 | **회원 가입** | **로그인** |
-| <img src="" width="48%" /> | <img src="https://github.com/namjyung/codetree-TILs/blob/main/1-ezgif.com-video-to-gif-converter.gif?raw=true"> | 
+| <img src="https://github.com/namjyung/codetree-TILs/blob/main/1-ezgif.com-video-to-gif-converter.gif?raw=true"  /> | <img src="https://github.com/namjyung/codetree-TILs/blob/main/1-ezgif.com-video-to-gif-converter.gif?raw=true" > | 
 | **게시글 작성** | **댓글 작성** |
-| <img src="" width="48%" /> | <img src="" width="48%" /> | 
+| <img src=""  /> | <img src=""  /> | 
 | **나눔 채택** | **포인트 충전** |
-| <img src="" width="48%" /> | <img src="" width="48%" /> | 
+| <img src="" /> | <img src=""  /> | 
 
